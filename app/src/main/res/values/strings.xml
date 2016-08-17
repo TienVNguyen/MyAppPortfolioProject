@@ -1,0 +1,14 @@
+<!--
+  ~  Copyright (c) 2016. Self Training Systems, Inc - All Rights Reserved
+  ~  Unauthorized copying of this file, via any medium is strictly prohibited
+  ~  Proprietary and confidential
+  ~  Written by TienNguyen <tien.workinfo@gmail.com - tien.workinfo@icloud.com>, October 2015
+  -->
+
+<resources>
+    <string name="app_name">My Portfolio</string>
+    <string name="title_activity_name">My App Portfolio</string>
+    <string name="title_name">My Nanodegree Apps!</string>
+    <string name="dialog_title">Project!</string>
+    <string name="dialog_ok">OK</string>
+</resources>

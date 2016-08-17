@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~  Copyright (c) 2016. Self Training Systems, Inc - All Rights Reserved
+  ~  Unauthorized copying of this file, via any medium is strictly prohibited
+  ~  Proprietary and confidential
+  ~  Written by TienNguyen <tien.workinfo@gmail.com - tien.workinfo@icloud.com>, October 2015
+  -->
+
+<resources>
+    <string name="app_name">私のポートフォリオ</string>
+    <string name="title_activity_name">マイアプリのポートフォリオ</string>
+    <string name="title_name">マイNanodegreeアプリ！</string>
+    <string name="dialog_title">プロジェクト！</string>
+    <string name="dialog_ok">[OK]</string>
+</resources>
